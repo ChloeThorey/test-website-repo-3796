@@ -1,7 +1,7 @@
 ---
 title: Présentation
 ---
-La Compagnie Fais-Le Moi-Même est née de la rencontre de deux artistes trans-disciplinaires, deux doux punks du spectacle vivant et leur approche artistique basé sur le Do It Yourself.
+<p style="text-align:justify;"La Compagnie Fais-Le Moi-Même est née de la rencontre de deux artistes trans-disciplinaires, deux doux punks du spectacle vivant et leur approche artistique basé sur le Do It Yourself.
 D’une envie brûlante d’en découdre avec le plateau, 
 Mais pas seulement le plateau de théâtre. 
 L’envie de se saisir de tous les espaces de jeux possibles.  
@@ -21,7 +21,7 @@ Bricoler du vivant, en somme.
 
 >*Faites des bêtises mais faites les avec enthousiasme*
 
-C'est un peu autour de cet adage attribué à Colette que nous bidouillons des trucs ensemble depuis 2016.
+C'est un peu autour de cet adage attribué à Colette que nous bidouillons des trucs ensemble depuis 2016.</p>
 
 Nous, c'est : 
 
