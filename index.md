@@ -21,7 +21,7 @@ Bricoler du vivant, en somme.
 
 >*Faites des bêtises mais faites les avec enthousiasme*
 
-C'est un peu autour de cet adage attribué à Colette que nous bidouillons des trucs ensemble depuis 2016.</p>
+C'est un peu autour de cet adage attribué à Colette que nous bidouillons des trucs ensemble depuis 2016.
 
 Nous, c'est : 
 
