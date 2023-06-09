@@ -1,8 +1,6 @@
 ---
 title: 2. Les Enfants de La Destinée
 ---
-# **Les Enfants de la Destinée**
-
 ![affiche Les Enfants de la Destinée](images/test affiche ledld.jpg)
 
 C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux. 
