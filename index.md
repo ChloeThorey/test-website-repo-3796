@@ -37,6 +37,6 @@ En 2019 je commence à mener mes propres projets théâtraux après s’être mi
 
 
 
-<div style="text-align:right;">### Maxime Arnault
+### Maxime Arnault
 
-<div style="text-align:right;"><img src="images/dessin maxime.png" width="200"></div>
+<img src="images/dessin maxime.png" width="200">
