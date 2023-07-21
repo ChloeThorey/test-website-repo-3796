@@ -15,4 +15,8 @@ On va vous parler de ce petit panthéon qu’on punaise sur les murs de nos cham
 
 Et tout ça se fait avec un rétro-projecteur d’antan, une guitare électrique, une paire de ciseaux ,un écran blanc et 2 ampoules. 
 
+Durée : 50 min
+Spectacle en intérieur, autonome techniquement.
+Besoin d'obscurité et d'électricité.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O2ERxNmiDUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
