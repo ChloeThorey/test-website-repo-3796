@@ -4,6 +4,7 @@ title: Méchant ! - Création jeune public 2024
 ## *Un spectacle gentil mais faut pas trop le chercher*
 
 jeune public - à partir de 4 ans
+durée : environ 35 minutes
 
 ![Méchant Couverture du livre](images/couverture-mechant.png)
 
