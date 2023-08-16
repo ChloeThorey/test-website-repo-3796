@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 4
+order: 5
 ---
 La Compagnie Fais-Le Moi-même est produite par Vintage Caravane.  
 
