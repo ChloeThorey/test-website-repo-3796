@@ -2,7 +2,7 @@
 title: "Agenda"
 order: 4
 ---
-###2023-2024
+### 2023-2024
 
 30 septembre : Les Enfants De La Destinée - La Palettes, Longvilliers (62)
 
