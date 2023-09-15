@@ -10,7 +10,7 @@ order: 4
 
 25 octobre : Les Enfants de La Destinée - Château Mollack, Marquise (62)
 
-16 novembre : Les Enfants de La Destinée - Bully-Les-Mines (62)
+15 novembre : Les Enfants de La Destinée - Bully-Les-Mines (62)
 
 21 novembre : Les Enfants de La Destinée - Beaucouzé (49)
 
