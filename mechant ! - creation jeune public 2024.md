@@ -7,7 +7,7 @@ order: 3
 jeune public - à partir de 4 ans  
 durée : environ 35 minutes
 
-![Méchant Couverture du livre](images/couverture-mechant.png)
+
 
 Croch’patte a faim, ça le rend méchant. Alors il se prend pour un loup pour voler les goûters des petits.  
 Biquette est menue mais elle est prête à en découdre.  
