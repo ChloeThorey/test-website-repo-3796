@@ -11,6 +11,7 @@ _Jamais On_ ravira, entre autres, les amateurs de rétroprojecteur, de papier d�
 
 ![Storyboard Jamais On](images/story board jamais on.jpg) 
 
-Durée : 30 min  
-A partir de 3 ans  
-Spectacle autonome techniquement 
+A partir de 3 ans
+Durée : 30 min
+Spectacle en intérieur, autonome techniquement.
+Besoin d’obscurité et d’électricité. 
