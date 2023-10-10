@@ -1,6 +1,6 @@
 ---
 title: "Agenda"
-order: 5
+order: 6
 ---
 ### 2023-2024
 
