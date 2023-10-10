@@ -11,9 +11,9 @@ _Jamais On_ ravira, entre autres, les amateurs de rétroprojecteur, de papier d�
 
 <iframe width="1079" height="607" src="https://www.youtube.com/embed/lzuxqsYO7dI" title="Jamais On - Cie Fais-Le Moi-Même - Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-A partir de 3 ans
-Durée : 30 min
-Spectacle en intérieur, autonome techniquement.
-Besoin d’obscurité et d’électricité. 
+A partir de 3 ans  
+Durée : 30 min  
+Spectacle en intérieur, autonome techniquement.  
+Besoin d’obscurité et d’électricité.  
 
 ![Storyboard Jamais On](images/story board jamais on.jpg) 
