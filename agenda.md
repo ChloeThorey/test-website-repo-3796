@@ -4,19 +4,21 @@ order: 5
 ---
 ### 2023-2024
 
-30 septembre : Les Enfants De La Destinée - La Palettes, Longvilliers (62)
+30 septembre : _Les Enfants De La Destinée_ - La Palettes, Longvilliers (62)
 
-1er octobre : Jamais On - La Palette, Longvilliers (62)
+1er octobre : _Jamais On_ - La Palette, Longvilliers (62)
 
-25 octobre : Les Enfants de La Destinée - Château Mollack, Marquise (62)
+25 octobre : _Les Enfants de La Destinée_ - Château Mollack, Marquise (62)
 
-15 novembre : Les Enfants de La Destinée - Bully-Les-Mines (62)
+15 novembre : _Les Enfants de La Destinée_ - Bully-Les-Mines (62)
 
-21 novembre : Les Enfants de La Destinée - Beaucouzé (49)
+21 novembre : _Les Enfants de La Destinée_ - Beaucouzé (49)
 
-Du 27 novembre au 1er décembre : Résidence de création « Méchant ! » - Théâtre Monsigny - Boulogne -sur-mer (62)
+Du 27 novembre au 1er décembre : Résidence de création  _Méchant !_ - Théâtre Monsigny - Boulogne -sur-mer (62)
 (Rencontre publique le 30 novembre)
 
-Du 8 au 12 janvier : Résidence de création « Méchant ! » - Le Channel - Calais (62)
+Du 8 au 12 janvier : Résidence de création  _Méchant !_ - Le Channel - Calais (62)
 
-Du 19 au 23 février :  Résidence de création « Méchant ! » - Centre culturel Georges Brassens- Saint Martin-Boulogne (62) 
+Du 19 au 23 février :  Résidence de création _Méchant !_ - Centre culturel Georges Brassens- Saint Martin-Boulogne (62)  
+
+24 avril : _Méchant !_ - Centre culturel Evasion, Noyelles-sous-Lens (62) 
