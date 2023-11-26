@@ -1,7 +1,9 @@
 ---
 title: "Les Enfants de La Destinée"
 order: 2
+in_menu: true
 ---
+Création 2021
 ![affiche Les Enfants de la Destinée](images/test affiche ledld.jpg)
 
 C’est un spectacle qui s’adresse à ceux qui ne sont plus des enfants, pour leur proposer de regarder derrière eux.  
