@@ -8,7 +8,7 @@ in_menu: true
 jeune public - à partir de 4 ans  
 durée : environ 35 minutes
 
-![Affiche Méchant ! ](images/Affiche Méchant !.jpg)
+![Affiche Méchant](/images/Affiche Méchant !.jpg)
 
 Croch’patte a faim, ça le rend méchant. Alors il se prend pour un loup pour voler les goûters des petits.  
 Biquette est menue mais elle est prête à en découdre.  
