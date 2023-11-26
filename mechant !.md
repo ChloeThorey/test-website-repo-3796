@@ -1,9 +1,10 @@
 ---
-title: "Méchant ! - Création jeune public 2024"
+title: "Méchant !"
 order: 4
 in_menu: true
 ---
 ## *Un spectacle gentil mais faut pas trop le chercher*
+### - Création jeune public 2024 -  
 
 jeune public - à partir de 4 ans  
 durée : environ 35 minutes
