@@ -4,7 +4,7 @@ order: 1
 in_menu: true
 ---
 ![logo cie Fais-Le Moi-Même](logo fais-le ciseaux.gif)  
-![logo vintage Caravane](logo Vintage sans fond.png)
+![logo vintage Caravane](images/logo Vintage sans fond.png)
 
 La Compagnie Fais-Le Moi-Même est portée par l'association Vintage Caravane.  
 C'est une compagnie née de la rencontre de deux artistes trans-disciplinaires, deux doux punks du spectacle vivant et leur approche artistique basé sur le Do It Yourself.
