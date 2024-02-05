@@ -3,7 +3,7 @@ title: "Présentation"
 order: 1
 in_menu: true
 ---
-![logo cie Fais-Le Moi-Même](logo fais-le ciseaux.gif)  
+![logo cie Fais-Le Moi-Même](logo fais-le ciseaux.gif)
 ![logo vintage Caravane](images/logo vintage Caravane.png)
 
 La Compagnie Fais-Le Moi-Même est portée par l'association Vintage Caravane.  
