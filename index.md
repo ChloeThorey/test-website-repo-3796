@@ -4,7 +4,6 @@ order: 1
 in_menu: true
 ---
 ![logo cie Fais-Le Moi-Même](logo fais-le ciseaux.gif)
-![logo vintage Caravane](images/logo vintage Caravane.png)
 
 La Compagnie Fais-Le Moi-Même est portée par l'association Vintage Caravane.  
 C'est une compagnie née de la rencontre de deux artistes trans-disciplinaires, deux doux punks du spectacle vivant et leur approche artistique basé sur le Do It Yourself.
@@ -49,3 +48,5 @@ En 2019 je commence à mener mes propres projets théâtraux après s’être mi
 
 Après des études d’Art, je consacre l’essentiel de mon activité à la musique et développe un goût certain pour le chant, la lutherie sauvage et la musique théâtralisée. Dans les années 2000, je cofonde le quatuor de chanson humoristique Henri, Léon et les Autres et en parallèle, le spectacle d’imitations périlleuses Les Reprises de l’Impossible. Puis, à partir de 2005, je forme différents groupes à géométrie et longévité variable, pour la rue, avec des instruments-jouets ou pour des salons de thé (El Trio Grandé, Bottine, Chandail, Dernier Dodo, L’Orchestre de Chefs...)
 Depuis 2016, je prends part à des projets de chorales en tant que chef de choeur (Chorale à la Con, Chorale à Mômes, Blue Garces) Adepte du DIY, du bricolage sonore et des instruments atypiques, je mets mes compétences de compositeur au service de différentes compagnies (NoMORPa, Collectif Citron, Carni Levamen, Omi Sissi). 
+
+![logo vintage Caravane](images/logo vintage Caravane.png) 
