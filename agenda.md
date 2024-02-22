@@ -1,6 +1,7 @@
 ---
 title: "Agenda"
 order: 6
+in_menu: true
 ---
 ### 2023-2024
 
@@ -19,6 +20,14 @@ Du 27 novembre au 1er décembre : Résidence de création  _Méchant !_ - Thé�
 
 Du 8 au 12 janvier : Résidence de création  _Méchant !_ - Le Channel - Calais (62)
 
-Du 19 au 23 février :  Résidence de création _Méchant !_ - Centre culturel Georges Brassens- Saint Martin-Boulogne (62)  
+Du 19 au 23 février :  Résidence de création _Méchant !_ - Centre culturel Georges Brassens - Saint Martin-Boulogne (62)  
+
+8 mars : _Les Enfants de La Destinée_ - Lille (59)
+
+16 avril : _Méchant !_  Ambleteuse (représentations scolaires)
 
 24 avril : _Méchant !_ - Centre culturel Evasion, Noyelles-sous-Lens (62) 
+
+27 avril : _Jamais On_ La Maison du Papier - Esquerdes (62)
+
+11 mai : _Méchant !_ - Festival les Utopitreries - Ruminghem (62) 
