@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### 2023-2024
 
-30 septembre : _Les Enfants De La Destinée_ - La Palettes, Longvilliers (62)
+30 septembre : _Les Enfants De La Destinée_ - La Palette, Longvilliers (62)
 
 1er octobre : _Jamais On_ - La Palette, Longvilliers (62)
 
