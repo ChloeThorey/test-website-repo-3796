@@ -1,6 +1,7 @@
 ---
 title: "Demain"
 order: 5
+in_menu: true
 ---
 Lecture musicale  
 
@@ -10,10 +11,12 @@ Lecture musicale
 Texte : Mariette Navarro   
 Conception, musique et jeu :  Chloé Thorey et Anaïs Delmoitiez  
 
- « Je veux plus de cette vie où jamais demain ne veut dire quelque chose. » 
- Virginie Despentes 
+ « Je veux plus de cette vie où jamais demain ne veut dire quelque chose. »  Virginie Despentes 
 
-Demain est incertain, c’est sûr... Que sont censé-e-s faire de demain les adolescent-e-s d’aujourd’hui ? Comment faire en sorte qu’ils aient de quoi se concocter des lendemains qui fredonnent ?  
+![Affiche Demain]({% link images/affiche Demain.jpg %})
+
+
+Demain est incertain, c’est sûr...  Que sont censé-e-s faire de demain les adolescent-e-s d’aujourd’hui ?  Comment faire en sorte qu’ils aient de quoi se concocter des lendemains qui fredonnent ?  
 Comment réinventer du collectif, du bien commun tout en ne niant pas la singularité individuelle des angoisses que ces questions suscitent ?  
 
 Demain est une proposition poétique. Ce n’est pas une réponse. (Nous n’en avons pas la prétention.)   
