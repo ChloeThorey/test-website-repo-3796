@@ -3,6 +3,26 @@ title: "Agenda"
 order: 6
 in_menu: true
 ---
+### ÉTÉ 2024
+
+Dans le cadre du dispositif Plaines d'été - Ce projet s’inscrit dans le cadre de « L’Été culturel », manifestation à l’initiative du Ministère de la culture et bénéficie du soutien de la direction régionale des affaires culturelles des Hauts-de-France
+
+23 juillet  : _Demain - lecture musicale_ - La Palette, Longvilliers (62)  
+
+24 juillet : _Demain - lecture musicale_ - Les Pommiers de Grand-Père, Brême les ardres (62)  
+
+26 juillet :  _Demain - lecture musicale_ - La maison des faiseurs, Montreuil-sur-mer (62)  
+
+7 septembre :  _Demain - lecture musicale_ Ardres (62)  
+
+11 septembre : _Demain - lecture musicale_ Médiatheque de Conchil le Temple (62)  
+
+14 septembre : _Demain - lecture musicale_ Maintenay (62)  
+
+20 septembre :  _Demain - lecture musicale_ Le Germoir, Ambricourt (62)  
+
+
+
 ### 2023-2024
 
 30 septembre : _Les Enfants De La Destinée_ - La Palette, Longvilliers (62)
